@@ -64,7 +64,6 @@ The model demonstrates strong separability and balanced performance across both 
 
 ## 🛠️ Project Structure
 
-The model demonstrates strong separability and balanced performance across both classes.
 ```text
 Rice-Classification/
 │
