@@ -7,7 +7,7 @@ A complete end-to-end tabular machine learning project for binary classification
 ## 🖥️ Streamlit Demo
 
 <p align="center">
-  <img src="assets/demo.png" width="900">
+  <img src="assets/demo.jpg" width="900">
 </p>
 
 ## 📌 Project Overview
