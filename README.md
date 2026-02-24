@@ -67,12 +67,16 @@ The model demonstrates strong separability and balanced performance across both 
 ```text
 Rice-Classification/
 │
-├── app.py
+├─ Tabular_classification/
+│  ├─ app.py      # Streamlit application
+│  ├─ maxabs_scaler.joblib
+|  ├─ metadata.joblib
+|  ├─ rice_model.pt    
+│  ├─ riceClassification.csv     # Dataset          
+│  └─ Tabular_classification.ipynb
+├─ assets/
+│  └─ demo.png 
 ├── requirements.txt
-├── rice_model.pt
-├── maxabs_scaler.joblib
-├── metadata.joblib
-├── Tabular_classification.ipynb
 ├── README.md
 └── .gitignore
 ```
