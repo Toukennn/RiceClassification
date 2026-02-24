@@ -59,7 +59,7 @@ The model demonstrates strong separability and balanced performance across both 
 ## 🛠️ Project Structure
 
 The model demonstrates strong separability and balanced performance across both classes.
-
+```text
 Rice-Classification/
 │
 ├── app.py
@@ -70,7 +70,7 @@ Rice-Classification/
 ├── Tabular_classification.ipynb
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
