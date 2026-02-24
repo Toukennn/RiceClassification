@@ -98,7 +98,7 @@ pip install -r requirements.txt
 ```
 4️⃣ Run the Streamlit app
 ```bash
-streamlit run house_prediction.py
+streamlit run app.py
 ```
 
 
