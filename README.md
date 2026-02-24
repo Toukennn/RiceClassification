@@ -76,14 +76,23 @@ Rice-Classification/
 
 ## 🚀 Running the Streamlit App
 
-### 1️⃣ Install dependencies
-
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/Toukennn/RiceClassification.git
+cd RiceClassification
+```
+2️⃣ Create a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+3️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 2️⃣ Launch the app
+4️⃣ Run the Streamlit app
 ```bash
-streamlit run app.py
+streamlit run house_prediction.py
 ```
 
 
